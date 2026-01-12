@@ -15,12 +15,6 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/huggingface/transformers/main/docs/source/en/imgs/transformers_logo_name.png" width="400" alt="Transformers"/>
-
-</div>
-
----
-
 ## 👤 Identitas Mahasiswa
 
 * RAIHAN SALMAN BAEHAQI (1103220180)
