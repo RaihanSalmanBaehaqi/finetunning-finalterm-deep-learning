@@ -9,7 +9,10 @@
 
 **Eksplorasi Tiga Arsitektur Transformer untuk Natural Language Understanding & Generation**
 
-[📰 Task 1: BERT](#task-1-bert-text-classification--nli) • [❓ Task 2: T5](#task-2-t5-question-answering) • [📝 Task 3: Phi-2](#task-3-phi-2-text-summarization) • [🚀 Quick Start](#quick-start)
+[📰 Task 1: BERT](#user-content--task-1-bert-text-classification--nli) •
+[❓ Task 2: T5](#user-content--task-2-t5-question-answering) •
+[📝 Task 3: Phi-2](#user-content--task-3-phi-2-text-summarization) •
+[🚀 Quick Start](#user-content--quick-start)
 
 ---
 
