@@ -71,10 +71,6 @@ Repository ini berisi implementasi **Task 2** dari UAS Deep Learning yang berfok
 <td><b>📝 Task</b></td>
 <td>Task 2 - Fine-tuning T5 for Question Answering</td>
 </tr>
-<tr>
-<td><b>📅 Date</b></td>
-<td>January 2025</td>
-</tr>
 </table>
 
 ### Group Members
