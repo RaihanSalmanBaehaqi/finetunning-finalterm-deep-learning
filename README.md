@@ -1,12 +1,3 @@
----
-
-## 👤 Identitas Mahasiswa
-
-* RAIHAN SALMAN BAEHAQI (1103220180)
-* JAKA KELANA WIJAYA (1103223048)
-
----
-
 <div align="center">
 
 # 🧠 Fine-tuning Transformers for NLP Tasks
@@ -27,6 +18,13 @@
 <img src="https://raw.githubusercontent.com/huggingface/transformers/main/docs/source/en/imgs/transformers_logo_name.png" width="400" alt="Transformers"/>
 
 </div>
+
+---
+
+## 👤 Identitas Mahasiswa
+
+* RAIHAN SALMAN BAEHAQI (1103220180)
+* JAKA KELANA WIJAYA (1103223048)
 
 ---
 
