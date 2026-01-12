@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🧠 Fine-tuning Transformers for NLP Tasks
 
 ### Ujian Akhir Semester (UAS) - Deep Learning
@@ -11,7 +9,7 @@
 
 **Eksplorasi Tiga Arsitektur Transformer untuk Natural Language Understanding & Generation**
 
-[📰 Task 1: BERT](#-task-1-bert-text-classification--nli) • [❓ Task 2: T5](#-task-2-t5-question-answering) • [📝 Task 3: Phi-2](#-task-3-phi-2-text-summarization) • [🚀 Quick Start](#-quick-start)
+[📰 Task 1: BERT](#task-1-bert-text-classification--nli) • [❓ Task 2: T5](#task-2-t5-question-answering) • [📝 Task 3: Phi-2](#task-3-phi-2-text-summarization) • [🚀 Quick Start](#quick-start)
 
 ---
 
@@ -32,7 +30,6 @@ Repository ini berisi implementasi **komprehensif** untuk Ujian Akhir Semester m
 | **Encoder-Decoder** | T5-base | Question Answering | **77.59%** F1 Score |
 | **Decoder** | Phi-2 | Text Summarization | **7.13%** ROUGE-1 |
 
-<div align="center">
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
@@ -51,11 +48,9 @@ Repository ini berisi implementasi **komprehensif** untuk Ujian Akhir Semester m
 └─────────────────────────────────────────────────────────────────────────┘
 ```
 
-</div>
 
 ## 🏆 Highlights & Pencapaian
 
-<div align="center">
 
 | 📰 AG News | 😊 GoEmotions | 🔗 MNLI | ❓ SQuAD | 📝 XSum |
 |:----------:|:------------:|:-------:|:--------:|:-------:|
@@ -63,7 +58,6 @@ Repository ini berisi implementasi **komprehensif** untuk Ujian Akhir Semester m
 | Accuracy | Micro-F1 | Accuracy | F1 Score | ROUGE-1 |
 | ✅ Exceeds Benchmark | ✅ Matches Benchmark | ✅ Matches Benchmark | ✅ Good | ⚠️ Limited |
 
-</div>
 
 ### 🎯 Key Achievements
 
@@ -130,7 +124,6 @@ finetunning-finalterm-deep-learning/
 
 ## 🔵 Task 1: BERT (Text Classification & NLI)
 
-<div align="center">
 
 ### Architecture: **Encoder-Only (Bidirectional)**
 
@@ -142,7 +135,6 @@ finetunning-finalterm-deep-learning/
                     └─────────────────────────────┘
 ```
 
-</div>
 
 **BERT** (Bidirectional Encoder Representations from Transformers) memproses teks secara **bidirectional**, memungkinkan pemahaman konteks yang lebih baik untuk task klasifikasi dan pemahaman bahasa.
 
@@ -227,7 +219,6 @@ Output:     "Entailment" ✅
 
 ## 🟢 Task 2: T5 (Question Answering)
 
-<div align="center">
 
 ### Architecture: **Encoder-Decoder (Seq2Seq)**
 
@@ -239,7 +230,6 @@ Output:     "Entailment" ✅
                     └─────────────────────────────────────┘
 ```
 
-</div>
 
 **T5** (Text-to-Text Transfer Transformer) menggunakan framework **text-to-text** yang unified, mengubah semua task menjadi format generasi teks.
 
@@ -275,7 +265,6 @@ Generated Answer: "Paris" ✅
 
 ## 🟠 Task 3: Phi-2 (Text Summarization)
 
-<div align="center">
 
 ### Architecture: **Decoder-Only (Causal LM)**
 
@@ -287,7 +276,6 @@ Generated Answer: "Paris" ✅
                     └─────────────────────────────┘
 ```
 
-</div>
 
 **Phi-2** adalah model decoder-only dari Microsoft (2.7B parameters) yang di-finetune menggunakan **LoRA** untuk efisiensi.
 
@@ -321,7 +309,6 @@ Efficiency:                   0.30%  ✅
 
 ## 📊 Perbandingan Arsitektur
 
-<div align="center">
 
 | Aspect | 🔵 BERT (Encoder) | 🟢 T5 (Enc-Dec) | 🟠 Phi-2 (Decoder) |
 |:------:|:-----------------:|:---------------:|:------------------:|
@@ -331,7 +318,6 @@ Efficiency:                   0.30%  ✅
 | **Output** | Classification | Sequence | Sequence |
 | **Pre-training** | MLM + NSP | Span Corruption | Next Token |
 
-</div>
 
 ### 🎯 Kapan Menggunakan Arsitektur Tertentu?
 
@@ -418,7 +404,6 @@ jupyter notebook
 
 ## 🛠️ Tech Stack
 
-<div align="center">
 
 | Category | Technologies |
 |:--------:|:-------------|
@@ -429,7 +414,6 @@ jupyter notebook
 | **Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat) |
 | **Environment** | ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white) |
 
-</div>
 
 ---
 
@@ -505,7 +489,6 @@ This project is created for **educational purposes** as part of the Deep Learnin
 
 ## 🙏 Acknowledgments
 
-<div align="center">
 
 | | |
 |:-:|:-:|
@@ -514,6 +497,5 @@ This project is created for **educational purposes** as part of the Deep Learnin
 | [Telkom University](https://telkomuniversity.ac.id/) | Academic support |
 | Course Instructors | Guidance & feedback |
 
-</div>
 
 ---
